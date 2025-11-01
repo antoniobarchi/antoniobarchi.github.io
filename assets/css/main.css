@@ -228,6 +228,11 @@ hr {
 .align-right {
   text-align: right; }
 
+.small-link {
+  font-size: 0.9em;   /* slightly smaller than normal */
+  margin-top: -0.5em; /* optional: tightens space above */
+}
+
 /* Row */
 .row {
   display: flex;
