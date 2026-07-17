@@ -233,6 +233,11 @@ hr {
   margin-top: -0.5em; /* optional: tightens space above */
 }
 
+.about-text {
+  text-align: justify;
+  hyphens: auto;
+}
+
 /* Row */
 .row {
   display: flex;
